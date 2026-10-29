@@ -170,11 +170,9 @@ A aplicação pode ser executada localmente no Windows, utilizando o terminal do
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/helofleury/stockmind-ai.git
 cd stockmind-ai
 ```
-
-Substitua `<URL_DO_REPOSITORIO>` pela URL real do repositório.
 
 Se o projeto já estiver na sua máquina, entre diretamente na pasta `stockmind-ai`.
 
