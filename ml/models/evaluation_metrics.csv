@@ -1,0 +1,3 @@
+model,mae,rmse
+Random Forest,6.495291587233026,9.202615643026567
+Baseline - dia anterior,10.15,14.03399552169767

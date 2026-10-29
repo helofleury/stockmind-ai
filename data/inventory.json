@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": 1,
+    "name": "Luvas descartáveis",
+    "quantity": 5,
+    "minimum_quantity": 50,
+    "expiration_date": "2026-11-15"
+  },
+  {
+    "id": 2,
+    "name": "Seringas descartáveis",
+    "quantity": 500,
+    "minimum_quantity": 100,
+    "expiration_date": "2027-08-20"
+  },
+  {
+    "id": 3,
+    "name": "Máscaras cirúrgicas",
+    "quantity": 300,
+    "minimum_quantity": 50,
+    "expiration_date": "2026-11-05"
+  },
+  {
+    "id": 4,
+    "name": "Gazes esterilizadas",
+    "quantity": 800,
+    "minimum_quantity": 100,
+    "expiration_date": "2026-10-01"
+  },
+  {
+    "id": 5,
+    "name": "Álcool 70%",
+    "quantity": 700,
+    "minimum_quantity": 100,
+    "expiration_date": "2027-12-15"
+  }
+]
